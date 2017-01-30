@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Wildfire", "Wildfire\Wildfire.shproj", "{68E1E821-4658-4763-89F6-803ED66E70A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildfire.iOS", "iOS\Wildfire.iOS.csproj", "{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Release|iPhone.Build.0 = Release|iPhone
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{7F176DC9-7CAD-4974-A3FE-8CC63CEA93EB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
